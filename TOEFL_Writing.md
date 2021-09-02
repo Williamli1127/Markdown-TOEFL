@@ -1,6 +1,5 @@
-#TOFEL iBT - Integrated Writing
+#TOEFL iBT - Integrated Writing
 
-## <font color=#708090>Outline</font>
   + Read the artical and Figure out the author's point of view
   + Listen to the lecture and Write down the specific arguments
   + Write the summarization 'without' personal opinion with three paragraph
@@ -44,7 +43,7 @@
 
 ---
 
-## <font color=#0000FF>Physical Science</font>
+## <font color=#FF6600>Physical Science</font>
   + Paleontology (古生物學)
     ```
     frame 體型
@@ -70,7 +69,7 @@
 
 ---
 
-## <font color=#FF00FF>Life Sciences</font>
+## <font color=#FF6600>Life Sciences</font>
   + Zoology
     ```
     allot 分配
@@ -81,7 +80,7 @@
 
 ---
 
-## <font color=#800080>Social Science</font>
+## <font color=#FF6600>Social Science</font>
   + Archaeology
     ```
     Archaeologists 考古學家
@@ -99,7 +98,15 @@
 #TOFEL iBT - Independent Writing
 
 ## <font color=#708090>Choose one from two</font>
-
+    moral fiber 道德品質
+    Obviously,what is said above presupposes that ...
+    Nevertheless, xxx is problematic
+    privately owned
+    encroach upon ...'s rights
+    trample on the proper rights of ...
+    extol 讚美
+    image management 形象管理
+    Business and PR concerns
 ## <font color=#708090>Compare & Contrast</font>
 
 ## <font color=#708090>WHAT</font>
@@ -134,6 +141,16 @@
    autumnal equinoxes 秋分
    winter solstice / midwinter 冬至
    ```
++ 31
+  ```c
+  Savanna 稀疏草原
+  waterlogged soils 淹水土壤
+  drainage 引流、排水
+  pyrophytes 耐高溫植物
+  pastureland 放牧場、牧地
+  inttermittent 斷斷續續的
+  trickle 涓涓細流
+  ```
 + 32
   ```c
   spores 孢子
