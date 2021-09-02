@@ -12,6 +12,7 @@
     The professor takes exception to the argument regarding ...
     The professor talks about the controversy surrounding ...
     The professor rebuts this point by citing that ...
+    The professor diagrees with the view expressed in the reading passage.
     ```
   + Positive expression
     ```
@@ -157,6 +158,18 @@
   plowed field 耕地
   propagule 繁殖體
   nectar 花蜜
+  ```
++ 36
+  ```c
+  humus 腐殖質
+  flora 植物群
+  fauna 動物群
+  prairies 大草原
+  tundra 苔原
+  legume 豆科值物
+  nodules 結核
+  nitrogent 氮氣
+  aeration 通風
   ```
 
 Tools
