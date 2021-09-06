@@ -104,7 +104,7 @@
 >>>Quote three sentences
 
 ---
-### <font color=#00000>University Services</font>
+### <font color=#00000>[3] University Services</font>
 `Quotation`
 ```
 Direct --> The professor described, "..."
@@ -125,18 +125,47 @@ _*Direct v.s. Indirect Quotation*_
 |may|could|permission|
 |will|would|future will|
 |must|had to|obligation|
-    
-
-
-
-
-
-
-
 
 
 ---
+### <font color=#00000>[5] Problems with Transportation and Buildings</font>
+    [Elements]
+      -> The situation is that ...
+      -> If this "were" my decision,
+         I would choose the ... option, that is , ...
+      -> The main reason I prefer this option is that ...
+      -> To solve the problem, I think that ...
 
+      -> xxx has to figure out how to handle the situation
+      -> The first alternative is to ... , the second alternative is to ... .
+      -> My reasoning is that ...
+
+      -> mediator 仲介者 to solve the dispute
+      -> ... makes two suggestions for ...
+      -> I think the woman should Verb ... , and Verb ...
+
+---
+### <font color=#00000>[5] Mistakes and Accidents</font>
+    [Elements]
+      -> His first thought is ...,
+         the other way of handling this situation is to ...
+      -> My solution would be ...
+
+      -> Lawyer fee is expensive
+      -> She discussed two courses of action with her friend.
+      -> I would choose the fromer/latter course of action, because ...
+
+      -> If I were the man, I would ...
+      -> If I could ... , I would ...
+
+    [What開頭名詞子句]
+      -> What I think she/he should do is ...
+      -> What the man said is that he ...
+      -> What issue mentioned from her friend is ...
+      -> What happened was that the woman lost her laptop
+      -> What I suggest is that ...
+
+---
 Tools
 // &emsp;(tab)
 // <font color=#800080>顏色</font>

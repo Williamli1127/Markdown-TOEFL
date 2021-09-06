@@ -170,6 +170,7 @@
   nodules 結核
   nitrogent 氮氣
   aeration 通風
+  niche 放於適當的地方（生態位）
   ```
 
 Tools
