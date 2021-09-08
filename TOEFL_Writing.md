@@ -4,6 +4,11 @@
   + Listen to the lecture and Write down the specific arguments
   + Write the summarization 'without' personal opinion with three paragraph
 
+## <font color=#708090>Templates</font>
+  + There is a dichotomy of opinion concerning ... .
+    One school of thought, as presented by the reading , ... .
+    The opposing camp, of which the professor is a member, emphasizes ... .
+
 ## <font color=#708090>Sentences</font>
   + Negation
     ```
@@ -24,6 +29,8 @@
     The professor again refers to the evidence of ... , making the case that ...
     The professor cited several pieces of evidence indicating that ...
     Opponents focus on ... , while proponents ...
+    He discounts the importance of ... and places high value on ... .
+
     ```
 
 ## <font color=#708090>Words Usage</font>
@@ -67,6 +74,20 @@
     sonatas 奏鳴曲
     ```
   + Literature
+    ```
+    pitfalls 圈套、陷阱
+    orthodox 正統
+    dichotomy 二分法
+    nuance 細微差別
+    doing ... a disservice 損害 ...
+    stanza 詩節
+    figurative language 形象化的語
+    long-winded 冗長的分析
+    ode 頌詩
+    hone 改進、改善
+    parroting 機械地模仿 (parrot鸚鵡)
+    adept "at"
+    ```
 
 ---
 
@@ -117,6 +138,15 @@
 ## <font color=#708090>HOW</font>
 
 ## <font color=#708090>Hypothetical 'IF'</font>
+    revolutionary
+    availability
+    To recap, ... .
+    material abundance
+
+    !!! 假設語氣 !!!
+      If I "could" ..., I "would" ... .
+      If I "were" possible ... , I "could" ... .
+      If I "had" the opportunities ... , I "might" ...
 
 ## <font color=#708090>Open Ended Described & Discuss</font>
 

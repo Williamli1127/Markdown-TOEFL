@@ -166,6 +166,41 @@ _*Direct v.s. Indirect Quotation*_
       -> What I suggest is that ...
 
 ---
+### <font color=#00000>[9] Work and Money</font>
+    [Elements]
+      -> Hard work never did anyone any harm
+      -> Money makes the world go around (有錢能使鬼推磨)
+      -> ... is more crucial than a top salary
+      -> Without ... , it is hard to ...
+      -> True success encompasses much more than ... and ...
+      -> The nature of ... is such that ...
+      -> decent salary
+
+  _*Alternative words*_
+  |Question|Alternatives|
+  |--|--|
+  |prefer|would like to|
+  |option|I think that ... is the better approach|
+  |Agree?|From my perspective, ... is the better approach
+  |Important?|I would rather have ...|
+  |which way?|I prefer/ tend to|
+  |which opinion|I tend to support ...|
+  |which approach?|My opinion is that ...|
+
+---
+### <font color=#00000>[10] Education</font>
+    [Elements]
+      -> stifle 窒息、壓制
+      -> individuality
+      -> self-Expression
+      -> Quite frankly, there's no need for ... to ...
+      -> There is no doubt that ...
+      -> Everyone is an independent individual
+      -> It is a matter of necessity to ...
+
+
+
+
 Tools
 // &emsp;(tab)
 // <font color=#800080>顏色</font>

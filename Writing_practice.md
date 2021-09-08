@@ -77,3 +77,17 @@ To begin with, providing a small scale of land as bobwhite's habitat is not suff
 Secondly, overhunting might not be the major factor that deteriorate the population of bobwhite due to their ability of being prolific breeders. Once given satisfied habitats, they can reproduce successfully and thus have a growth of population, in which contributes to their short life cycle.
 Last but not least, the professor reputes the idea of breeding quails individually and then releasing them to the wild because bobwhite has inferior gene compared to other species so that they cann't grow well in the wild. Moreover, the professor suggests that the appropriate measure is to breed them in an abundant habitat and then transfer them by a huge amount to the other places where they can survive comfortably.
 ```
+
+
+```
+Record mistakes
+
+If I could create an invent without considering technical issue, I would have made a pair of high-tech glasses that has powerful CPU as super computers and almost infinite storage. With the advent of these glasses, cellphone and other kinds of wearable devices will not be needed anymore because all the functions they have were substitued by my glasses.
+
+First and foremost, communication utility is an essentail material concerning replacing cellphone. These glasses not only be able to call anyone under any circumstances with voice control but also have the ability recording the conversion and projecting the one who you are calling to. With these functionalities, any illegal or controverial phone call can be stored and only the owner have the authorization to access these data, while whenver a problem comes out regarding the content talking in the phone call can be thus proved.
+
+Secondly, whenver you meet a person, glasses can access to the social media information provided by the one you just met. Consequently, this kind of social interation makes things easier, and thus the introvert ones can make their own introduction through glasses in advance so that they can participate in social activities with courage. On the other hand, for the outrovert ones, with the help of glasses, they can try to start a conversation about others' habbits precisely through glasses, and then have higher probabilities making the ecstacy atmosphere successfully.
+
+Last but not least, the glasses have a switch to turn on recording mode, which is saving what you see in everyday life as media data , being work successfully due to its infinite storage. This ablity absolutelu can affect your life significantly. For instance, when you're a 80 years old man, you have the ability to reflect everyday in the past by checking out the data in these glasses, in which making the concept of time differently. However, this ablity also can be destuctive because when human can almost control time and turn back to see the past, they might be confused and thus get lost in real life. Therefore, these glasses should be limited to someone who have already addicted to it or try to constrain its utility to some degree. To sum up, these powerful glasses would be my top pick when I could make one invention.
+
+```
